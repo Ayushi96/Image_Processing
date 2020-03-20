@@ -1,6 +1,6 @@
 # Project Titile 
 
-!DIP(https://www.skyfilabs.com/blog/innovative-image-processing-based-final-year-projects)
+![DIP](https://www.skyfilabs.com/blog/innovative-image-processing-based-final-year-projects)
 In this repository I solve an Image Processing Assignment that was given to the IIIT-D 1st semester Digital Image Processing assignment. 
 
 ## Getting Started
