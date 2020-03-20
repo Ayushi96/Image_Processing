@@ -41,3 +41,5 @@ _single underscores_
 **double asterisks**
 
 __double underscores__
+
+Use the `printf()` function.
