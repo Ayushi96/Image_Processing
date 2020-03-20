@@ -1,6 +1,6 @@
 # Project Titile 
 
-![DIP](https://assets.skyfilabs.com/images/blog/innovative-image-processing-based-final-year-projects-for-students.jpg "DIP (image courtesy : https://www.skyfilabs.com/blog/innovative-image-processing-based-final-year-projects" height = "100" width = "100")
+![DIP](https://assets.skyfilabs.com/images/blog/innovative-image-processing-based-final-year-projects-for-students.jpg "DIP : image courtesy : https://www.skyfilabs.com/blog/innovative-image-processing-based-final-year-projects" height = "100" width = "100")
 In this repository I solve an Image Processing Assignment that was given to the IIIT-D 1st semester Digital Image Processing assignment. 
 
 ## Getting Started
