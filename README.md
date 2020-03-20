@@ -1,5 +1,6 @@
 # Project Titile 
 
+!DIP(~/image_dip1.jpg)
 In this repository I solve an Image Processing Assignment that was given to the IIIT-D 1st semester Digital Image Processing assignment. 
 
 ## Getting Started
@@ -43,3 +44,5 @@ _single underscores_
 __double underscores__
 
 Use the `printf()` function.
+
+
